@@ -1,0 +1,21 @@
+Colors
+pink 
+red
+orange 
+yellow 
+brown 
+green 
+cyan
+blue 
+indigo 
+purple 
+violet 
+magenta 
+white 
+gray 
+black
+dark blue
+navy
+rainbow
+red orange
+hot pink
